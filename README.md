@@ -1,14 +1,12 @@
-# Hi, I'm Enis Musliu 👋
+# Hi there! I'm Enis Musliu 👋
 
-Full Stack Developer with a **focus on frontend development**, and a background in Computerized Automation and Robotics.
+Passionate **Full Stack Developer with a frontend focus**, building modern **web and mobile applications** with **React.js**, **Next.js**, and **React Native**.
 
-Building responsive, high-performance **web and mobile applications** using **React.js**, **Next.js**, and **React Native**, while also working with backend systems and APIs.
+My background in **Computerized Automation and Robotics** shaped my interest in programming, systems, and problem-solving, which led me to software development.
 
-Experience contributing to projects in **e-commerce, education, and green tech**, delivering modern user interfaces and collaborating closely with design and backend teams.
+I started by building responsive web applications, later expanding into mobile development with **React Native**. I’ve worked on solutions in **e-commerce, education, and green tech**, always focusing on **clean interfaces, performance, and user experience**.
 
-Comfortable working across the **full stack**, building complete solutions and solving real-world problems through freelance and personal projects.
-
-Currently strengthening my backend development skills in **Node.js**, **Express.js**, **Hono.js**, and **PostgreSQL**, while expanding my knowledge of **AI Integration**
+Currently strengthening my backend development skills with **Node.js**, **Express.js**, **Hono.js**, and **PostgreSQL**, while expanding my knowledge of **AI** and **automation**.
 
 Focused on **clean code, performance, and great user experience**.
 
