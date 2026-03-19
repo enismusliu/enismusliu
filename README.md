@@ -8,7 +8,7 @@ Experience contributing to projects in **e-commerce, education, and green tech**
 
 Comfortable working across the **full stack**, building complete solutions and solving real-world problems through freelance and personal projects.
 
-Currently expanding expertise in **backend development** and **AI integrations**.
+Currently strengthening my backend development skills in **Node.js**, **Express.js**, **Hono.js**, and **PostgreSQL**, while expanding my knowledge of **AI Integration**
 
 Focused on **clean code, performance, and great user experience**.
 
